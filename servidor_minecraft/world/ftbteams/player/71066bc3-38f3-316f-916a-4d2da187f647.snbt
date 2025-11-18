@@ -1,0 +1,18 @@
+{
+	id: "71066bc3-38f3-316f-916a-4d2da187f647"
+	type: "player"
+	player_name: "CristoXSMC"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "CristoXSMC"
+		"ftbteams:color": "#FF7359"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
