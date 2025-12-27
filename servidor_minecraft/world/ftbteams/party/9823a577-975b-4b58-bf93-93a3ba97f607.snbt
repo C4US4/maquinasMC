@@ -1,0 +1,27 @@
+{
+	id: "9823a577-975b-4b58-bf93-93a3ba97f607"
+	type: "party"
+	owner: "71066bc3-38f3-316f-916a-4d2da187f647"
+	ranks: {
+		c6b43b1b-23a4-36cc-8245-2d525c0733a0: "member"
+		71066bc3-38f3-316f-916a-4d2da187f647: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "CristoXSMC's Party"
+		"ftbteams:color": "#59CAFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1763319137495L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"CristoXSMC\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "71066bc3-38f3-316f-916a-4d2da187f647", date: 1763319151998L, text: "{\"color\":\"green\",\"text\":\"Invited CazadorSky18\"}" }
+		{ from: "71066bc3-38f3-316f-916a-4d2da187f647", date: 1763319469868L, text: "{\"color\":\"green\",\"text\":\"Invited CazadorSky18\"}" }
+		{ from: "71066bc3-38f3-316f-916a-4d2da187f647", date: 1763319579339L, text: "{\"color\":\"green\",\"text\":\"Invited CazadorSky18\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1763319623169L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"CazadorSky18\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

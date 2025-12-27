@@ -1,0 +1,18 @@
+{
+	id: "c6b43b1b-23a4-36cc-8245-2d525c0733a0"
+	type: "player"
+	player_name: "CazadorSky18"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "CazadorSky18"
+		"ftbteams:color": "#8759FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

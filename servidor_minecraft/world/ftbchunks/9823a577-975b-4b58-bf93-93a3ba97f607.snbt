@@ -1,0 +1,106 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	extra_claim_chunks: 0
+	extra_force_load_chunks: 0
+	chunk_load_offline: true
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -56, z: 30, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -57, z: 30, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -55, z: 30, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -58, z: 28, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -48, z: 40, time: 1763426960068L, force_loaded: 1763426966056L }
+			{ x: -55, z: 28, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -56, z: 26, time: 1763321924480L, force_loaded: 1763321930406L }
+			{ x: -57, z: 26, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -56, z: 29, time: 1763321921640L, force_loaded: 1763321935420L }
+			{ x: -58, z: 29, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -58, z: 30, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -57, z: 29, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -57, z: 27, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -58, z: 27, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -55, z: 29, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -147, z: 32, time: 1763328176575L, force_loaded: 1763328178486L }
+			{ x: -56, z: 27, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -55, z: 27, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -56, z: 28, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -57, z: 28, time: 1763321921640L, force_loaded: 1763321930406L }
+			{ x: -49, z: 40, time: 1764637764970L, force_loaded: 1764637765834L }
+		]
+	}
+	original_claims: {
+		71066bc3-38f3-316f-916a-4d2da187f647: {
+			"minecraft:overworld": [
+				{
+					x: -55
+					z: 29
+				}
+				{
+					x: -56
+					z: 28
+				}
+				{
+					x: -57
+					z: 27
+				}
+				{
+					x: -56
+					z: 29
+				}
+				{
+					x: -55
+					z: 30
+				}
+				{
+					x: -57
+					z: 28
+				}
+				{
+					x: -56
+					z: 30
+				}
+				{
+					x: -58
+					z: 28
+				}
+				{
+					x: -57
+					z: 29
+				}
+				{
+					x: -57
+					z: 30
+				}
+				{
+					x: -58
+					z: 29
+				}
+				{
+					x: -56
+					z: 26
+				}
+				{
+					x: -55
+					z: 27
+				}
+				{
+					x: -55
+					z: 28
+				}
+				{
+					x: -56
+					z: 27
+				}
+				{
+					x: -57
+					z: 26
+				}
+				{
+					x: -58
+					z: 30
+				}
+			]
+		}
+	}
+}
